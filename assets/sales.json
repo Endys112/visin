@@ -1,0 +1,48 @@
+[
+{"type":"header","version":"4.9.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"visin_survey"},
+{"type":"table","name":"sales","database":"visin_survey","data":
+[
+{"OrderDate":"7\/21\/21","Region":"Amerika","Rep":"Ayaka","Item":"Keqing","Units":"1.161","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Asia","Rep":"Ayaka","Item":"Keqing","Units":"1.161","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Eropa","Rep":"Ayaka","Item":"Keqing","Units":"1.161","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Amerika","Rep":"Ayaka","Item":"Jean","Units":"1.153","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Asia","Rep":"Ayaka","Item":"Jean","Units":"1.153","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Eropa","Rep":"Ayaka","Item":"Jean","Units":"1.153","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Amerika","Rep":"Ayaka","Item":"Diluc","Units":"1.135","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Asia","Rep":"Ayaka","Item":"Diluc","Units":"1.135","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"7\/21\/21","Region":"Eropa","Rep":"Ayaka","Item":"Diluc","Units":"1.135","UnitCost":" 19.99 ","Total":" 999.50 "},
+
+{"OrderDate":"6\/29\/21","Region":"Amerika","Rep":"Kazuha","Item":"Keqing","Units":"2.905","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Asia","Rep":"Kazuha","Item":"Keqing","Units":"2.905","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Eropa","Rep":"Kazuha","Item":"Keqing","Units":"2.905","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Amerika","Rep":"Kazuha","Item":"Jean","Units":"2.860","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Asia","Rep":"Kazuha","Item":"Jean","Units":"2.860","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Eropa","Rep":"Kazuha","Item":"Jean","Units":"2.860","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Amerika","Rep":"Kazuha","Item":"Diluc","Units":"2.996","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Asia","Rep":"Kazuha","Item":"Diluc","Units":"2.996","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/29\/21","Region":"Eropa","Rep":"Kazuha","Item":"Diluc","Units":"2.996","UnitCost":" 19.99 ","Total":" 999.50 "},
+
+{"OrderDate":"6\/8\/21","Region":"Amerika","Rep":"Klee","Item":"Keqing","Units":"1.868","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Asia","Rep":"Klee","Item":"Keqing","Units":"1.868","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Eropa","Rep":"Klee","Item":"Keqing","Units":"1.868","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Amerika","Rep":"Klee","Item":"Jean","Units":"1.845","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Asia","Rep":"Klee","Item":"Jean","Units":"1.845","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Eropa","Rep":"Klee","Item":"Jean","Units":"1.845","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Amerika","Rep":"Klee","Item":"Diluc","Units":"1.820","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Asia","Rep":"Klee","Item":"Diluc","Units":"1.820","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"6\/8\/21","Region":"Eropa","Rep":"Klee","Item":"Diluc","Units":"1.820","UnitCost":" 19.99 ","Total":" 999.50 "},
+
+{"OrderDate":"5\/18\/21","Region":"Amerika","Rep":"Eula","Item":"Keqing","Units":"2.783","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Asia","Rep":"Eula","Item":"Keqing","Units":"2.783","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Eropa","Rep":"Eula","Item":"Keqing","Units":"2.783","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Amerika","Rep":"Eula","Item":"Jean","Units":"2.891","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Asia","Rep":"Eula","Item":"Jean","Units":"2.891","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Eropa","Rep":"Eula","Item":"Jean","Units":"2.891","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Amerika","Rep":"Eula","Item":"Diluc","Units":"2.964","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Asia","Rep":"Eula","Item":"Diluc","Units":"2.964","UnitCost":" 19.99 ","Total":" 999.50 "},
+{"OrderDate":"5\/18\/21","Region":"Eropa","Rep":"Eula","Item":"Diluc","Units":"2.964","UnitCost":" 19.99 ","Total":" 999.50 "}
+
+]
+}
+]
